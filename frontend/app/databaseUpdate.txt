@@ -1,0 +1,4 @@
+student_exam->add combination_id
+student_exam_marks->add combination_id
+subjects->add not_subsidiary
+subject_subsidiaries->drop table.
